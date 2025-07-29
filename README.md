@@ -67,4 +67,5 @@ This web app has the following functionalities:-
 
 <img width="1896" height="202" alt="image" src="https://github.com/user-attachments/assets/431ad14b-536d-4b80-8bd0-6fbe917cb360" />
 8. Entire web app can be surfed without logging in for user's ease and attraction for new users. Only 	certain features such as dashboard, and marking interested are available upon log in.
+
 9. Through the entire web app, each and every excetion is handled well using custom codes and UI,	such that they are easily managed, and user can get to know the fault.
